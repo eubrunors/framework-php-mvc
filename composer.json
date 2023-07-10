@@ -1,0 +1,20 @@
+{
+    "name": "bruno/framework-php-mvc",
+    "autoload": {
+        "psr-4": {
+            "Bruno\\FrameworkPhpMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "eubrunors",
+            "email": "bruno.2013.br11@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
