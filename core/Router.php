@@ -1,12 +1,9 @@
 <?php
 
-namespace core;
+namespace app\core;
 
 class Router
 {
-    public function __construct()
-    {
 
-    }
 
 }

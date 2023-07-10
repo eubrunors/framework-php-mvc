@@ -1,8 +1,10 @@
 <?php
 
-$app = new Aplication();
+$app = new Application();
 
-$app->$router->get('/', fuction(){
+require_once
+
+$app->$router->get('/', function(){
     return 'Hello World';
 });
 
